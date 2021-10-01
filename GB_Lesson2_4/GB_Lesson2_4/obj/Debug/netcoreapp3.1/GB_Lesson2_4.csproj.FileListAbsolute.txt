@@ -1,0 +1,13 @@
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.exe
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.deps.json
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.runtimeconfig.json
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.runtimeconfig.dev.json
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.dll
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\bin\Debug\netcoreapp3.1\GB_Lesson2_4.pdb
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.csprojAssemblyReference.cache
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.AssemblyInfoInputs.cache
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.AssemblyInfo.cs
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.csproj.CoreCompileInputs.cache
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.dll
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.pdb
+C:\Users\aantonov\source\repos\GB_Lesson2_4\GB_Lesson2_4\obj\Debug\netcoreapp3.1\GB_Lesson2_4.genruntimeconfig.cache
