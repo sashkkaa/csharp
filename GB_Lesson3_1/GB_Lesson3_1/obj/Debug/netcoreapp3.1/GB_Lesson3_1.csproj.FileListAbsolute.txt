@@ -1,0 +1,13 @@
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.exe
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.deps.json
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.runtimeconfig.json
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.runtimeconfig.dev.json
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.dll
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\bin\Debug\netcoreapp3.1\GB_Lesson3_1.pdb
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.csprojAssemblyReference.cache
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.AssemblyInfoInputs.cache
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.AssemblyInfo.cs
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.csproj.CoreCompileInputs.cache
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.dll
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.pdb
+D:\ProjectHome\GB_Lesson3_1\GB_Lesson3_1\obj\Debug\netcoreapp3.1\GB_Lesson3_1.genruntimeconfig.cache
