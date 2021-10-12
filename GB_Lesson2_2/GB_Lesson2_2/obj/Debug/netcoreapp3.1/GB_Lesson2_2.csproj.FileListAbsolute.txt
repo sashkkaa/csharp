@@ -1,0 +1,13 @@
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.exe
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.deps.json
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.runtimeconfig.json
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.runtimeconfig.dev.json
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.dll
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\bin\Debug\netcoreapp3.1\GB_Lesson2_2.pdb
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.csprojAssemblyReference.cache
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.AssemblyInfoInputs.cache
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.AssemblyInfo.cs
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.csproj.CoreCompileInputs.cache
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.dll
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.pdb
+D:\ProjectHome\home\GB_Lesson2_2\GB_Lesson2_2\obj\Debug\netcoreapp3.1\GB_Lesson2_2.genruntimeconfig.cache
